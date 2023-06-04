@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "348529831299",
+    "project_id": "login-c2dcc",
+    "storage_bucket": "login-c2dcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348529831299:android:b46c8f6d46b812b2d19ab6",
+        "android_client_info": {
+          "package_name": "com.example.dummylogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348529831299-3ko41v109upetvetcefn5p3alok5jg9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dummylogin",
+            "certificate_hash": "1d5a97c17aeabadeab241c5b3f47549b02819aae"
+          }
+        },
+        {
+          "client_id": "348529831299-cofujm7pq21a6bs5ufonkme9i5ae1v30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dummylogin",
+            "certificate_hash": "78c769ede1892531be23d79f1aca63cdb0a444e3"
+          }
+        },
+        {
+          "client_id": "348529831299-ilf7rv0os71kjbv3qm3fcfk27co6q8bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALHnsxr7sklLOUu7VbldfQ7SaNy6Hr0zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348529831299-ilf7rv0os71kjbv3qm3fcfk27co6q8bs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348529831299-5li09kjo7u537rg69b51m1vnjb5ho91n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travelui"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348529831299:android:a767284ef867c003d19ab6",
+        "android_client_info": {
+          "package_name": "com.example.mobile_rs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348529831299-ilf7rv0os71kjbv3qm3fcfk27co6q8bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALHnsxr7sklLOUu7VbldfQ7SaNy6Hr0zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348529831299-ilf7rv0os71kjbv3qm3fcfk27co6q8bs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348529831299-5li09kjo7u537rg69b51m1vnjb5ho91n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travelui"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348529831299:android:0812b8d1132cc2dcd19ab6",
+        "android_client_info": {
+          "package_name": "com.example.travelui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348529831299-a2l8uo4b623qm15l1e2f76sasb60fejq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelui",
+            "certificate_hash": "1577cda09ef3d7256a2de5243f9a3a61b0d85b4d"
+          }
+        },
+        {
+          "client_id": "348529831299-ilf7rv0os71kjbv3qm3fcfk27co6q8bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALHnsxr7sklLOUu7VbldfQ7SaNy6Hr0zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348529831299-ilf7rv0os71kjbv3qm3fcfk27co6q8bs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348529831299-5li09kjo7u537rg69b51m1vnjb5ho91n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travelui"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
